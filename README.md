@@ -1,2 +1,2 @@
-# Conway-s-Game-of-Life-Not-Optimal-
+# Conway-s-Game-of-Life-
 By UM
